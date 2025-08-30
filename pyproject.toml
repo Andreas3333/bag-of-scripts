@@ -1,0 +1,11 @@
+[project]
+name = "bag-of-scripts"
+description="A repository of miscellaneous utility scripts, standalone and snippet like"
+version = "0.1.0"
+requires-python = ">=3.13"
+dependencies = []
+
+[dependency-groups]
+dev = [
+    "pre-commit>=4.3.0",
+]
