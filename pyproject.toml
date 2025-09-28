@@ -9,3 +9,7 @@ dependencies = []
 dev = [
     "pre-commit>=4.3.0",
 ]
+quick-prompt = [
+    "torch>=2.8.0",
+    "transformers>=4.56.2",
+]
