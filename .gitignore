@@ -135,7 +135,6 @@ celerybeat.pid
 *.sage.py
 
 # Environments
-.env
 .envrc
 .venv
 env/
@@ -211,3 +210,6 @@ dev*
 
 # macos
 .DS_STORE
+
+# quick-prompt conversations
+conversations/
